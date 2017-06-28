@@ -1,0 +1,13 @@
+{
+  "name": "energiencrypt",
+  "version": "1.0.0",
+  "description": "Encodage-décodage de message par bloc pour escape game. ",
+  "main": "index.js",
+  "repository": "github-lucsorel:lucsorel/energiencrypt.git",
+  "author": "Luc Sorel",
+  "license": "MIT",
+  "dependencies": {
+    "monet": "0.8.10",
+    "rx": "4.1.0"
+  }
+}
